@@ -1,5 +1,5 @@
-# Intro-FrontEnd-Mission
-Practices corresponding to the introduction of the frontend
+# Intro FrontEnd Mission 🚀
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +9,25 @@ Practices corresponding to the introduction of the frontend
     
 </head>
 <body>
-    <h1>TUS PEDIDOS</h1>
-    <a href="github.com">link text</a>
+    <h1>Prácticas intro al FrontEnd</h1>
+    <ol>
+        <li>Toma de requerimientos</li>
+        <li>Buyer persona</li>
+        <li>Público objetivo</li>
+        <li>Wireframe UX</li>
+        <li>UI</li>
+    </ol>
+    <hr>
+    <ol type="I">
+        <li>Toma de requerimientos</li>
+            <h2>Toma de requerimientos</h2>
+            <b>Caso: ABOGABOT</b><br>
+            <b>Descripción</b>
+            <p></p>
+        <li>Buyer persona</li>
+        <li>Público objetivo</li>
+        <li>Wireframe UX</li>
+        <li>UI</li>
+    </ol>
 </body>
 </html>
