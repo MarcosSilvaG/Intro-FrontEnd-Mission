@@ -45,7 +45,7 @@
                 alt="Buyer persona" title="Clic en la imagen para ir al documento">
                 </a>
         <li><h2>Wireframe UX</h2></li>
-                <a href="https://miro.com/app/board/uXjVOIs9_n8=/?invite_link_id=326251722974 "
+                <a href="https://miro.com/app/board/uXjVOIs9_n8=/?invite_link_id=326251722974"
                 target="_blank">
                 <img src="https://github.com/MarcosSilvaG/Intro-FrontEnd-Mission/blob/main/images/4.%20Wireframe_ABOGABOT.jpg?raw=true" 
                 alt="Buyer persona" title="Clic en la imagen para ir al documento">
